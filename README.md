@@ -1,6 +1,8 @@
 # infraestructura-docker-app
 
-Repositorio para el despliegue y uso de Docker de una aplicación web compuesta por Nginx, FastAPI y PostgreSQL.
+**Nombre de los integrantes:** Jeison Felipe Duarte Porras - Jose Manuel Garcia - Yordy Guarnizo
+
+**Desarrollado:** Implementación de una infraestructura Dockerizada con Nginx, FastAPI y PostgreSQL, incluyendo persistencia de datos, red interna, documentación técnica, publicación de imágenes en GHCR y automatización mediante GitHub Actions.
 
 ## 1. Descripción del proyecto
 
